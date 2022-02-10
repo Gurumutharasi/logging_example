@@ -1,0 +1,17 @@
+2022-02-09 09:26:45,041 TRACE com.example.logging_example.LoggerController [http-nio-8080-exec-5] log example trace
+2022-02-09 09:26:45,215 INFO com.example.logging_example.LoggerController [http-nio-8080-exec-6]  log example info
+2022-02-09 09:26:45,216 ERROR com.example.logging_example.LoggerController [http-nio-8080-exec-6] log example error
+2022-02-09 09:26:45,216 DEBUG com.example.logging_example.LoggerController [http-nio-8080-exec-6] log example debug
+2022-02-09 09:26:45,217 TRACE com.example.logging_example.LoggerController [http-nio-8080-exec-6] log example trace
+2022-02-09 09:26:45,369 INFO com.example.logging_example.LoggerController [http-nio-8080-exec-7]  log example info
+2022-02-09 09:26:45,370 ERROR com.example.logging_example.LoggerController [http-nio-8080-exec-7] log example error
+2022-02-09 09:26:45,371 DEBUG com.example.logging_example.LoggerController [http-nio-8080-exec-7] log example debug
+2022-02-09 09:26:45,372 TRACE com.example.logging_example.LoggerController [http-nio-8080-exec-7] log example trace
+2022-02-09 09:26:45,519 INFO com.example.logging_example.LoggerController [http-nio-8080-exec-8]  log example info
+2022-02-09 09:26:45,520 ERROR com.example.logging_example.LoggerController [http-nio-8080-exec-8] log example error
+2022-02-09 09:26:45,521 DEBUG com.example.logging_example.LoggerController [http-nio-8080-exec-8] log example debug
+2022-02-09 09:26:45,523 TRACE com.example.logging_example.LoggerController [http-nio-8080-exec-8] log example trace
+2022-02-09 09:26:45,751 INFO com.example.logging_example.LoggerController [http-nio-8080-exec-9]  log example info
+2022-02-09 09:26:45,752 ERROR com.example.logging_example.LoggerController [http-nio-8080-exec-9] log example error
+2022-02-09 09:26:45,753 DEBUG com.example.logging_example.LoggerController [http-nio-8080-exec-9] log example debug
+2022-02-09 09:26:45,753 TRACE com.example.logging_example.LoggerController [http-nio-8080-exec-9] log example trace
